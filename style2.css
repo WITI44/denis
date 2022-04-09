@@ -1,0 +1,32 @@
+@media (max-width: 1000px)
+{
+
+    .sub-kaka{
+        gap: 20px;
+    }
+.wrapper{
+    width: 900px;
+}
+.conteiner{
+    width: 900px;
+}
+.sub-span{
+    font-size: 25pt;
+}
+.sub-banner{
+    width: 900px;
+}
+.hr{
+    width: 900px;
+}
+.hr2{
+    width: 580px;
+}
+.main-kaka{
+    width: 225px;
+}
+.footer-conteiner{
+    width: 900px;
+}
+
+}
